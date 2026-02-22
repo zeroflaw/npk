@@ -3,6 +3,7 @@ name = "npk"
 version = "0.1.1"
 authors = ["zeroflaw <zeroflaw@github.com>"]
 description = "No panic kit"
+license = "MIT OR Apache-2.0"
 edition = "2024"
 
 [dependencies]
