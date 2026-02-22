@@ -1,0 +1,8 @@
+[package]
+name = "npk"
+version = "0.1.1"
+authors = ["zeroflaw <zeroflaw@github.com>"]
+description = "No panic kit"
+edition = "2024"
+
+[dependencies]
